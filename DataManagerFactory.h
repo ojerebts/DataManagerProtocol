@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-typedef enum ouputTypes {
+typedef enum types {
     UserDefaults,
     Plist,
     iCloud
